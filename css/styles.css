@@ -1,0 +1,90 @@
+img{
+	max-width: 100%;
+}
+body{
+	background-color: #f5a623;
+}
+.nav-link a {
+	color: #fff;
+	text-decoration: none;
+}
+
+button a{
+	text-decoration: none;
+	color: white;
+}
+.navbar button {
+	border: none;
+}
+.navbar button:focus {
+	box-shadow: none;
+}
+.navbar button span {
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+	color: #fff;
+}
+
+
+/* new section */
+.discover{
+	background-color:#e6e6e6;
+}
+.discover h2{
+	padding: 2rem;
+}
+
+.image{
+	padding: 1rem;
+	border-radius: .5rem;
+	background-color: #fff;
+}
+
+.image-cover{
+	padding-bottom: 3rem;
+}
+#my-button{
+	background-color: #232b45;
+	color: white;
+}
+#message-us{
+	color: #232b45;
+	font-size: xx-large;
+}
+
+.footer{
+	background-color: #f5a623;
+	padding: 1.5rem;
+}
+.footer1{
+	background-color: #232b45;
+	color: white;
+	padding: 1.5rem;
+}
+.foot1{
+	color: #e6e6e6;
+}
+.mycarouselbox {
+	max-width: 100%;
+	max-height: 500px;
+}
+
+.kachi {
+	padding: 60px 0;
+	color: white;
+}
+.kachi h1 {
+	font-weight: bold;
+	color:#232b45;
+}
+.kachi p {
+	font-size: 22px;
+}
+@media(max-width: 768px){
+	.kachi h1 {
+		margin-bottom: 30px;
+	}
+}
+.douglas{
+	border: 1px solid #e6efe1;
+	padding-top: 1rem;
+}
